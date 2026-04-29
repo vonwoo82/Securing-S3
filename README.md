@@ -1,5 +1,4 @@
 # Securing-S3
-
 ## Overview
 This project documents the steps taken to secure an Amazon S3 bucket using AWS best practices, including encryption, access control, and public access restrictions.
 
